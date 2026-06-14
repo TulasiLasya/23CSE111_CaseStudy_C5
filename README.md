@@ -15,6 +15,13 @@ Personal Finance Manager
 | AM.SC.U4CSE25230 | Lekshmi Nandana   |  Class Design   |
 | AM.SC.U4CSE25236 | Nandana Jayakumar |  Logic Implementation |
 
+>**Note:** 
+> Roles listed in the original README reflect 
+> each member's primary focus area/ interest for documentation 
+> purposes. All team members actively contributed 
+> across the full codebase and have working knowledge 
+> of the complete project.
+
 
 ## Problem Description
 Managing personal finances is a common challenge for many individuals. People often fail to keep track of their daily expenses and monthly budgets, which leads to overspending and poor financial planning. Traditional methods like notebooks or spreadsheets are not efficient, as they lack automation, real-time tracking, and meaningful insights.
