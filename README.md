@@ -104,10 +104,30 @@ README.md
 
 ## Sample Output
 * Registration successful
+  
+![Register](OUTPUT/Register.png)
 * category created
+  
+![Category added](OUTPUT/addCategory.png)
 * budget allocated
+  
+![Set Budget](OUTPUT/SetBudget.png)
 * money withdrawn
+  
+![WithDraw Money](OUTPUT/WithdrawingMoney.png)
+
+* Spending Alert
+
+ ![spending alert](OUTPUT/Spending(above80%25).png)
+ 
 * pie chart staged
+  
+![Stage Pie Chart](OUTPUT/ViewExpense(pieChart).png)
+* bar chart staged
+  
+![Bar Chart](OUTPUT/ViewExpense(BarChart).png)
+
+  
 ---
 
 ## Notes
